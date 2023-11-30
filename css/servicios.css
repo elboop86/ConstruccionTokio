@@ -33,7 +33,7 @@ nav a {
 
 /* Estilos para el encabezado */
 h1 {
-    background-image: url('header-image.jpg'); /* Establece una imagen de fondo en h1 */
+    /*background-image: url('header-image.jpg'); /* Establece una imagen de fondo en h1 */
     background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el encabezado */
     text-align: center; /* Centra el texto en h1 */
     color: #fff; /* Color del texto en h1 */
